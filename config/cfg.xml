@@ -18,7 +18,16 @@
 		<mask>DalamWorld\Option.ini</mask>
 		<mask>DalamWorld\WindowsInfo.ini</mask>
 		<mask>DalamWorld\s_info.ini</mask>
-		<mask>DalamWorld\chargrp.dat</mask>
-		<mask>Systextures\NakedS.utx</mask>
+		<mask>DalamWorldNude\chatfilter.ini</mask>
+		<mask>DalamWorldNude\user.ini</mask>
+		<mask>DalamWorldNude\Option.ini</mask>
+		<mask>DalamWorldNude\WindowsInfo.ini</mask>
+		<mask>DalamWorldNude\s_info.ini</mask>		
+		<mask>DalamWorldBikini\chatfilter.ini</mask>
+		<mask>DalamWorldBikini\user.ini</mask>
+		<mask>DalamWorldBikini\Option.ini</mask>
+		<mask>DalamWorldBikini\WindowsInfo.ini</mask>
+		<mask>DalamWorldBikini\s_info.ini</mask>
+		
 	</soft_check>
 </options>
