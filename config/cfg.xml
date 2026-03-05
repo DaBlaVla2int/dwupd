@@ -1,0 +1,20 @@
+<options>
+	<title>Dalam World</title>
+	<uid>{6DALAMB-41WORLD7F-9DALAM2A-0WORLD59-3BESTGAME}</uid>
+	<options>http://dwupdnossl.fastmsg.ru/config/cfg.xml</options>
+	<news>http://news-updater-gamecenter.dkon.app/dalamworld/index.php</news>
+	<patchlist>http://dwupdnossl.fastmsg.ru/files/dwclient/dalamworldpatch.xml</patchlist>
+	<updater>http://proxyserverupd.fastmsg.ru/updt/int/Lineage2.exe</updater>
+	<full_check>
+		<reload_patchlist/>
+	</full_check>
+	<run>
+		<program>dwengine.dkon</program>
+		<close_updater/>
+	</run>
+	<soft_check>
+		<mask>DalamWorld\user.ini</mask>
+		<mask>DalamWorld\WindowsInfo.ini</mask>
+		<mask>DalamWorld\s_info.ini</mask>
+	</soft_check>
+</options>
