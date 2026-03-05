@@ -4,7 +4,7 @@
 	<options>http://dwupdnossl.fastmsg.ru/config/cfg.xml</options>
 	<news>http://news-updater-gamecenter.dkon.app/dalamworld/index.php</news>
 	<patchlist>http://dwupdnossl.fastmsg.ru/files/dwclient/dalamworldpatch.xml</patchlist>
-	<updater>http://proxyserverupd.fastmsg.ru/updt/int/Lineage2.exe</updater>
+	<updater>http://dwupdnossl.fastmsg.ru/config/DalamWorld.exe</updater>
 	<full_check>
 		<reload_patchlist/>
 	</full_check>
