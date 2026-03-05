@@ -27,7 +27,6 @@
 		<mask>DalamWorldBikini\user.ini</mask>
 		<mask>DalamWorldBikini\Option.ini</mask>
 		<mask>DalamWorldBikini\WindowsInfo.ini</mask>
-		<mask>DalamWorldBikini\s_info.ini</mask>
-		
+		<mask>DalamWorldBikini\s_info.ini</mask>		
 	</soft_check>
 </options>
