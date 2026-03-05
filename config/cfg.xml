@@ -13,7 +13,9 @@
 		<close_updater/>
 	</run>
 	<soft_check>
+		<mask>DalamWorld\chatfilter.ini</mask>
 		<mask>DalamWorld\user.ini</mask>
+		<mask>DalamWorld\Option.ini</mask>
 		<mask>DalamWorld\WindowsInfo.ini</mask>
 		<mask>DalamWorld\s_info.ini</mask>
 		<mask>DalamWorld\chargrp.dat</mask>
