@@ -16,5 +16,7 @@
 		<mask>DalamWorld\user.ini</mask>
 		<mask>DalamWorld\WindowsInfo.ini</mask>
 		<mask>DalamWorld\s_info.ini</mask>
+		<mask>DalamWorld\chargrp.dat</mask>
+		<mask>Systextures\NakedS.utx</mask>
 	</soft_check>
 </options>
