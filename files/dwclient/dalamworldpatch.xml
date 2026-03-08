@@ -1,5 +1,16 @@
 
 <list>
+	<archive filename="DalamWorld\l2.exe" checksum="F8F9D11F" original="7856FACC" size="737300"/>
+	<archive filename="DalamWorld\Window.dll" checksum="E334F0C4" original="34E90CAF" size="987156"/>
+	<archive filename="DalamWorld\WinDrv.dll" checksum="A25D5E06" original="75B2596C" size="872468"/>
+	<archive filename="DalamWorldBikini\l2.exe" checksum="F8F9D11F" original="7856FACC" size="737300"/>
+	<archive filename="DalamWorldBikini\Window.dll" checksum="E334F0C4" original="34E90CAF" size="987156"/>
+	<archive filename="DalamWorldBikini\WinDrv.dll" checksum="A25D5E06" original="75B2596C" size="872468"/>
+	<archive filename="DalamWorldNude\l2.exe" checksum="F8F9D11F" original="7856FACC" size="737300"/>
+	<archive filename="DalamWorldNude\Window.dll" checksum="E334F0C4" original="34E90CAF" size="987156"/>
+	<archive filename="DalamWorldNude\WinDrv.dll" checksum="A25D5E06" original="75B2596C" size="872468"/>
+	<archive filename="l2text\credit_ceo.htm" checksum="C2D3D8DB" original="DEDD54FD" size="2426"/>
+	<archive filename="systextures\L2UI_CH3.utx" checksum="4445AAE7" original="EF63665B" size="42581112"/>
 	<archive filename="DalamWorldBikini\actionname-e.dat" checksum="8393C42F" original="22AB827D" size="7216"/>
 	<archive filename="DalamWorldBikini\ALAudio.dll" checksum="F62AD140" original="5A5AF292" size="352276"/>
 	<archive filename="DalamWorldBikini\ALAudio.int" checksum="C69EF112" original="14AC3D8E" size="2658"/>
@@ -50,7 +61,6 @@
 	<archive filename="DalamWorldBikini\ipdrv.int" checksum="6894930B" original="2C8050ED" size="1840"/>
 	<archive filename="DalamWorldBikini\IpDrv.u" checksum="4A7C63EB" original="40CD4BC8" size="73703"/>
 	<archive filename="DalamWorldBikini\itemname-e.dat" checksum="8334C8C3" original="858B50DE" size="237488"/>
-	<archive filename="DalamWorldBikini\l2.exe" checksum="0B940031" original="68FEF3FE" size="593940"/>
 	<archive filename="DalamWorldBikini\l2.ini" checksum="F48AD0A3" original="0610C71F" size="3632"/>
 	<archive filename="DalamWorldBikini\l2.int" checksum="1FB28886" original="539D9385" size="164"/>
 	<archive filename="DalamWorldBikini\L2CompiledShader.bin" checksum="8CE52913" original="2144DF1C" size="4"/>
@@ -131,10 +141,8 @@
 	<archive filename="DalamWorldBikini\vorbisfile.dll" checksum="1173A489" original="4F037814" size="106516"/>
 	<archive filename="DalamWorldBikini\weapongrp.dat" checksum="E69ADCC1" original="F47DE9C9" size="78128"/>
 	<archive filename="DalamWorldBikini\wform.bm" checksum="2BAF65BB" original="FEB585DE" size="527005"/>
-	<archive filename="DalamWorldBikini\Window.dll" checksum="CC9DA2F2" original="0FE4D5BA" size="806932"/>
 	<archive filename="DalamWorldBikini\Window.int" checksum="5F6DC77C" original="49D76592" size="2316"/>
 	<archive filename="DalamWorldBikini\WindowsInfo.ini" checksum="894D3080" original="C82C6F6E" size="2185"/>
-	<archive filename="DalamWorldBikini\WinDrv.dll" checksum="D6D2F6AA" original="33FA4634" size="630804"/>
 	<archive filename="DalamWorldBikini\windrv.int" checksum="CDA2CB33" original="087A3AC7" size="729"/>
 	<archive filename="DalamWorldBikini\wrap_oal.dll" checksum="0C68EE79" original="0F491330" size="409620"/>
 	<archive filename="DalamWorldBikini\ZoneName-e.dat" checksum="90F40998" original="7F177A01" size="6064"/>
@@ -188,7 +196,6 @@
 	<archive filename="DalamWorldNude\ipdrv.int" checksum="6894930B" original="2C8050ED" size="1840"/>
 	<archive filename="DalamWorldNude\IpDrv.u" checksum="4A7C63EB" original="40CD4BC8" size="73703"/>
 	<archive filename="DalamWorldNude\itemname-e.dat" checksum="8334C8C3" original="858B50DE" size="237488"/>
-	<archive filename="DalamWorldNude\l2.exe" checksum="0B940031" original="68FEF3FE" size="593940"/>
 	<archive filename="DalamWorldNude\l2.ini" checksum="F48AD0A3" original="0610C71F" size="3632"/>
 	<archive filename="DalamWorldNude\l2.int" checksum="1FB28886" original="539D9385" size="164"/>
 	<archive filename="DalamWorldNude\L2CompiledShader.bin" checksum="8CE52913" original="2144DF1C" size="4"/>
@@ -269,17 +276,14 @@
 	<archive filename="DalamWorldNude\vorbisfile.dll" checksum="1173A489" original="4F037814" size="106516"/>
 	<archive filename="DalamWorldNude\weapongrp.dat" checksum="E69ADCC1" original="F47DE9C9" size="78128"/>
 	<archive filename="DalamWorldNude\wform.bm" checksum="2BAF65BB" original="FEB585DE" size="527005"/>
-	<archive filename="DalamWorldNude\Window.dll" checksum="CC9DA2F2" original="0FE4D5BA" size="806932"/>
 	<archive filename="DalamWorldNude\Window.int" checksum="5F6DC77C" original="49D76592" size="2316"/>
 	<archive filename="DalamWorldNude\WindowsInfo.ini" checksum="894D3080" original="C82C6F6E" size="2185"/>
-	<archive filename="DalamWorldNude\WinDrv.dll" checksum="D6D2F6AA" original="33FA4634" size="630804"/>
 	<archive filename="DalamWorldNude\windrv.int" checksum="CDA2CB33" original="087A3AC7" size="729"/>
 	<archive filename="DalamWorldNude\wrap_oal.dll" checksum="0C68EE79" original="0F491330" size="409620"/>
 	<archive filename="DalamWorldNude\ZoneName-e.dat" checksum="90F40998" original="7F177A01" size="6064"/>
 	<archive filename="dwengine.dkon" checksum="303D0867" original="76609F71" size="6296031"/>
 	<archive filename="systextures\DalamWorldNude.utx" checksum="E40AC0F8" original="6A4F800D" size="3631735"/>
 	<archive filename="animations\DalamWorld_bikini.ukx" checksum="B05389CC" original="5F7E3FBF" size="11094861"/>
-	<archive filename="systextures\L2UI_CH3.utx" checksum="4531928B" original="75BAB781" size="25484349"/>
 	<archive filename="systextures\L2UI_CH3a.utx" checksum="C2BA69A0" original="5C7CB2FF" size="214526"/>
 	<archive filename="animations\DarkElf.ukx" checksum="1B73C15A" original="F6D9D813" size="15300290"/>
 	<archive filename="animations\DropItems.ukx" checksum="18435013" original="7202AC22" size="14014089"/>
@@ -350,7 +354,6 @@
 	<archive filename="DalamWorld\ipdrv.int" checksum="6894930B" original="2C8050ED" size="1840"/>
 	<archive filename="DalamWorld\IpDrv.u" checksum="4A7C63EB" original="40CD4BC8" size="73703"/>
 	<archive filename="DalamWorld\itemname-e.dat" checksum="8334C8C3" original="858B50DE" size="237488"/>
-	<archive filename="DalamWorld\l2.exe" checksum="0B940031" original="68FEF3FE" size="593940"/>
 	<archive filename="DalamWorld\l2.ini" checksum="F48AD0A3" original="0610C71F" size="3632"/>
 	<archive filename="DalamWorld\l2.int" checksum="1FB28886" original="539D9385" size="164"/>
 	<archive filename="DalamWorld\L2CompiledShader.bin" checksum="8CE52913" original="2144DF1C" size="4"/>
@@ -431,16 +434,13 @@
 	<archive filename="DalamWorld\vorbisfile.dll" checksum="1173A489" original="4F037814" size="106516"/>
 	<archive filename="DalamWorld\weapongrp.dat" checksum="E69ADCC1" original="F47DE9C9" size="78128"/>
 	<archive filename="DalamWorld\wform.bm" checksum="2BAF65BB" original="FEB585DE" size="527005"/>
-	<archive filename="DalamWorld\Window.dll" checksum="CC9DA2F2" original="0FE4D5BA" size="806932"/>
 	<archive filename="DalamWorld\Window.int" checksum="5F6DC77C" original="49D76592" size="2316"/>
 	<archive filename="DalamWorld\WindowsInfo.ini" checksum="C51C420C" original="F3E69AFB" size="2189"/>
-	<archive filename="DalamWorld\WinDrv.dll" checksum="D6D2F6AA" original="33FA4634" size="630804"/>
 	<archive filename="DalamWorld\windrv.int" checksum="CDA2CB33" original="087A3AC7" size="729"/>
 	<archive filename="DalamWorld\wrap_oal.dll" checksum="0C68EE79" original="0F491330" size="409620"/>
 	<archive filename="DalamWorld\ZoneName-e.dat" checksum="90F40998" original="7F177A01" size="6064"/>
 	<archive filename="forcefeedback\ifeel.ifr" checksum="03891BCF" original="785FA068" size="172412"/>
 	<archive filename="forcefeedback\other.ifr" checksum="0BBD25B4" original="AD054C42" size="149445"/>
-	<archive filename="l2text\credit_ceo.htm" checksum="50BCD6E0" original="52175BA3" size="1012"/>
 	<archive filename="l2text\dw" checksum="13B022EB" original="A6571E87" size="38982"/>
 	<archive filename="l2text\help.htm" checksum="015105F2" original="8C736148" size="1934"/>
 	<archive filename="l2text\help_action.htm" checksum="427A1970" original="5870997A" size="984"/>
