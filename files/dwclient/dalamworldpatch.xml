@@ -1,5 +1,7 @@
 
 <list>
+	<archive filename="systextures\sp_256_01.bmp" checksum="312875FD" original="E41CF329" size="1228986"/>
+	<archive filename="systextures\sp_256_02.bmp" checksum="312875FD" original="E41CF329" size="1228986"/>
 	<archive filename="DalamWorld\l2.exe" checksum="F8F9D11F" original="7856FACC" size="737300"/>
 	<archive filename="DalamWorld\Window.dll" checksum="E334F0C4" original="34E90CAF" size="987156"/>
 	<archive filename="DalamWorld\WinDrv.dll" checksum="A25D5E06" original="75B2596C" size="872468"/>
@@ -1243,8 +1245,6 @@
 	<archive filename="systextures\sek.utx" checksum="87497485" original="BC666048" size="15462150"/>
 	<archive filename="systextures\slideshow.utx" checksum="CA703A5F" original="A7E06BFB" size="15207613"/>
 	<archive filename="systextures\slideshow-e.utx" checksum="1075CEAE" original="1D45233D" size="4195599"/>
-	<archive filename="systextures\sp_256_01.bmp" checksum="1101CA40" original="5F2D7A45" size="308324"/>
-	<archive filename="systextures\sp_256_02.bmp" checksum="84C674F9" original="56B95FB5" size="308324"/>
 	<archive filename="systextures\symbol.utx" checksum="D4C42152" original="0741258D" size="919015"/>
 	<archive filename="systextures\town_map.utx" checksum="FDE44A66" original="71E9D509" size="657871"/>
 	<archive filename="systextures\uwindowfonts.utx" checksum="12BB0E71" original="FC669BF3" size="1757997"/>
