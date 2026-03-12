@@ -1,5 +1,124 @@
 
 <list>
+	<archive filename="l2text\dalam-ru\dw-proff\abyss_walker.htm" checksum="AA9D75A4" original="67B8B46D" size="22228"/>
+	<archive filename="l2text\dalam-ru\dw-proff\adventurer.htm" checksum="C8B7964F" original="DA0882E3" size="7196"/>
+	<archive filename="l2text\dalam-ru\dw-proff\arbalester.htm" checksum="99E19931" original="3282AD5C" size="5990"/>
+	<archive filename="l2text\dalam-ru\dw-proff\arcana_lord.htm" checksum="6A3B4995" original="EC9399EE" size="7412"/>
+	<archive filename="l2text\dalam-ru\dw-proff\archmage.htm" checksum="1D2E87EF" original="7CD8B305" size="6514"/>
+	<archive filename="l2text\dalam-ru\dw-proff\artisan.htm" checksum="656D9287" original="3D37447A" size="3820"/>
+	<archive filename="l2text\dalam-ru\dw-proff\assassin.htm" checksum="CD69553D" original="74C41293" size="3330"/>
+	<archive filename="l2text\dalam-ru\dw-proff\berserker.htm" checksum="F567A688" original="53C4106B" size="5904"/>
+	<archive filename="l2text\dalam-ru\dw-proff\bishop.htm" checksum="AEA3336C" original="B7333110" size="19642"/>
+	<archive filename="l2text\dalam-ru\dw-proff\blade_dancer.htm" checksum="1D98898E" original="4470320E" size="19054"/>
+	<archive filename="l2text\dalam-ru\dw-proff\bounty_hunter.htm" checksum="5D0DF5D9" original="7D185A07" size="22010"/>
+	<archive filename="l2text\dalam-ru\dw-proff\cardinal.htm" checksum="4CCC96E1" original="5E571E14" size="6326"/>
+	<archive filename="l2text\dalam-ru\dw-proff\cleric.htm" checksum="C7958548" original="E0D1CF32" size="3816"/>
+	<archive filename="l2text\dalam-ru\dw-proff\dark_avenger.htm" checksum="A95DB531" original="FC6C2F16" size="22438"/>
+	<archive filename="l2text\dalam-ru\dw-proff\dark_wizard.htm" checksum="4E0EC710" original="2D5188B3" size="3722"/>
+	<archive filename="l2text\dalam-ru\dw-proff\destroyer.htm" checksum="8867F6A0" original="A39C2F9D" size="19612"/>
+	<archive filename="l2text\dalam-ru\dw-proff\dominator.htm" checksum="AF593BE4" original="F17D631F" size="6308"/>
+	<archive filename="l2text\dalam-ru\dw-proff\doombringer.htm" checksum="9098A53D" original="4F87CCCF" size="6532"/>
+	<archive filename="l2text\dalam-ru\dw-proff\doomcryer.htm" checksum="CAB4171C" original="344CE5CA" size="6778"/>
+	<archive filename="l2text\dalam-ru\dw-proff\dreadnought.htm" checksum="D59F930E" original="32F3E01A" size="6988"/>
+	<archive filename="l2text\dalam-ru\dw-proff\duelist.htm" checksum="214BD1C3" original="8958C88D" size="6736"/>
+	<archive filename="l2text\dalam-ru\dw-proff\elemental_master.htm" checksum="A938B3D4" original="735920E4" size="6420"/>
+	<archive filename="l2text\dalam-ru\dw-proff\elemental_summoner.htm" checksum="E8BCB72A" original="1ADF35DF" size="29144"/>
+	<archive filename="l2text\dalam-ru\dw-proff\elven_elder.htm" checksum="BF5FEA0B" original="EE92F55D" size="19540"/>
+	<archive filename="l2text\dalam-ru\dw-proff\elven_knight.htm" checksum="BE79F215" original="9BA9D520" size="2800"/>
+	<archive filename="l2text\dalam-ru\dw-proff\elven_wizard.htm" checksum="AAD0FBA4" original="9405A0BA" size="3696"/>
+	<archive filename="l2text\dalam-ru\dw-proff\evas_saint.htm" checksum="50560FF9" original="8A8BB487" size="6268"/>
+	<archive filename="l2text\dalam-ru\dw-proff\evas_templar.htm" checksum="8FF024DB" original="D32E5C6F" size="7014"/>
+	<archive filename="l2text\dalam-ru\dw-proff\fortune_seeker.htm" checksum="86C9C4A0" original="F82DED1D" size="6588"/>
+	<archive filename="l2text\dalam-ru\dw-proff\ghost_hunter.htm" checksum="4CBCA171" original="4D193BE3" size="7296"/>
+	<archive filename="l2text\dalam-ru\dw-proff\ghost_sentinel.htm" checksum="0631D10B" original="435DED89" size="7296"/>
+	<archive filename="l2text\dalam-ru\dw-proff\gladiator.htm" checksum="54E91811" original="E1496C61" size="19440"/>
+	<archive filename="l2text\dalam-ru\dw-proff\grand_khavatari.htm" checksum="E48CDDBD" original="13A6FB9E" size="6632"/>
+	<archive filename="l2text\dalam-ru\dw-proff\hawkeye.htm" checksum="1B81D9E2" original="1E1771F8" size="21764"/>
+	<archive filename="l2text\dalam-ru\dw-proff\hell_knight.htm" checksum="0C4D83E0" original="0B9E664F" size="6730"/>
+	<archive filename="l2text\dalam-ru\dw-proff\hierophant.htm" checksum="D150EFD1" original="49D70131" size="6358"/>
+	<archive filename="l2text\dalam-ru\dw-proff\inspector.htm" checksum="C064161C" original="8864ED67" size="5054"/>
+	<archive filename="l2text\dalam-ru\dw-proff\judicator.htm" checksum="F2AD4DE8" original="8E515536" size="5398"/>
+	<archive filename="l2text\dalam-ru\dw-proff\knight.htm" checksum="34AFC2F1" original="A7FAFAC1" size="3396"/>
+	<archive filename="l2text\dalam-ru\dw-proff\maestro.htm" checksum="6AC9848B" original="88BE8053" size="6610"/>
+	<archive filename="l2text\dalam-ru\dw-proff\monk.htm" checksum="C31153B5" original="7BAA0CF2" size="5208"/>
+	<archive filename="l2text\dalam-ru\dw-proff\moonlight_sentinel.htm" checksum="C02C6E49" original="1960A0F1" size="7610"/>
+	<archive filename="l2text\dalam-ru\dw-proff\mystic_muse.htm" checksum="3AED4949" original="61E22188" size="6526"/>
+	<archive filename="l2text\dalam-ru\dw-proff\necromancer.htm" checksum="E024803C" original="7F8CBA88" size="26834"/>
+	<archive filename="l2text\dalam-ru\dw-proff\oracle.htm" checksum="E19D6F31" original="D3171E0E" size="2772"/>
+	<archive filename="l2text\dalam-ru\dw-proff\overlord.htm" checksum="50727B31" original="05E336C3" size="21480"/>
+	<archive filename="l2text\dalam-ru\dw-proff\painswalker.htm" checksum="A7A0E10A" original="161ECC88" size="22514"/>
+	<archive filename="l2text\dalam-ru\dw-proff\palladin.htm" checksum="56D2AC17" original="C9C81FEF" size="20614"/>
+	<archive filename="l2text\dalam-ru\dw-proff\palus_knight.htm" checksum="EB9E709E" original="F9E97C1D" size="3226"/>
+	<archive filename="l2text\dalam-ru\dw-proff\phantom_ranger.htm" checksum="CB67B513" original="FBC8BF9F" size="21388"/>
+	<archive filename="l2text\dalam-ru\dw-proff\phantom_summoner.htm" checksum="08AB40DE" original="5DDF5907" size="28836"/>
+	<archive filename="l2text\dalam-ru\dw-proff\phoenix_knight.htm" checksum="4C557656" original="4A44F79F" size="7178"/>
+	<archive filename="l2text\dalam-ru\dw-proff\prophet.htm" checksum="4583AE67" original="EAF7B77C" size="19610"/>
+	<archive filename="l2text\dalam-ru\dw-proff\rider.htm" checksum="5E8B2687" original="6C1DBC9A" size="3334"/>
+	<archive filename="l2text\dalam-ru\dw-proff\rogue.htm" checksum="82EF031D" original="EBB1FEF3" size="3136"/>
+	<archive filename="l2text\dalam-ru\dw-proff\sagittarius.htm" checksum="5F07D425" original="EB44173A" size="7596"/>
+	<archive filename="l2text\dalam-ru\dw-proff\scavenger.htm" checksum="FDE4EE78" original="BB47526E" size="6164"/>
+	<archive filename="l2text\dalam-ru\dw-proff\scout.htm" checksum="C799E6E0" original="31C2798E" size="3194"/>
+	<archive filename="l2text\dalam-ru\dw-proff\shaman.htm" checksum="B5AB946A" original="BF2E53DC" size="4366"/>
+	<archive filename="l2text\dalam-ru\dw-proff\shillien_elder.htm" checksum="BCDFF8F5" original="6B911218" size="19196"/>
+	<archive filename="l2text\dalam-ru\dw-proff\shillien_knight.htm" checksum="EC2EF135" original="804FBB8B" size="22086"/>
+	<archive filename="l2text\dalam-ru\dw-proff\shillien_oracle.htm" checksum="944FBADF" original="94A23A59" size="3498"/>
+	<archive filename="l2text\dalam-ru\dw-proff\shillien_saint.htm" checksum="F5054863" original="7341AD5D" size="6224"/>
+	<archive filename="l2text\dalam-ru\dw-proff\shillien_templar.htm" checksum="066D1639" original="CA6A1FB0" size="6572"/>
+	<archive filename="l2text\dalam-ru\dw-proff\silver_ranger.htm" checksum="D11120D4" original="0DBDF378" size="21674"/>
+	<archive filename="l2text\dalam-ru\dw-proff\sorcerer.htm" checksum="1587778F" original="13C2DA64" size="26514"/>
+	<archive filename="l2text\dalam-ru\dw-proff\soul_breaker.htm" checksum="DB6BD83A" original="9C693B69" size="5020"/>
+	<archive filename="l2text\dalam-ru\dw-proff\soul_hound.htm" checksum="184DB324" original="2D3847ED" size="5400"/>
+	<archive filename="l2text\dalam-ru\dw-proff\soultaker.htm" checksum="5C1C815D" original="CF393266" size="6022"/>
+	<archive filename="l2text\dalam-ru\dw-proff\spectral_dancer.htm" checksum="BDA60027" original="A390942A" size="6344"/>
+	<archive filename="l2text\dalam-ru\dw-proff\spectral_master.htm" checksum="CB6BE190" original="BAEB931A" size="6218"/>
+	<archive filename="l2text\dalam-ru\dw-proff\spellhowler.htm" checksum="47E808A9" original="E96F30C4" size="26090"/>
+	<archive filename="l2text\dalam-ru\dw-proff\spellsinger.htm" checksum="737D126F" original="38DD32AA" size="26378"/>
+	<archive filename="l2text\dalam-ru\dw-proff\storm_screamer.htm" checksum="C3EF96B9" original="518FB669" size="6036"/>
+	<archive filename="l2text\dalam-ru\dw-proff\sword_muse.htm" checksum="C3D994A3" original="5CCFB328" size="7160"/>
+	<archive filename="l2text\dalam-ru\dw-proff\swordsinger.htm" checksum="B16B78D5" original="4C94D027" size="19346"/>
+	<archive filename="l2text\dalam-ru\dw-proff\temple_knight.htm" checksum="DD8C40C4" original="F4707CAD" size="20516"/>
+	<archive filename="l2text\dalam-ru\dw-proff\titan.htm" checksum="7FDADA16" original="1554E2C9" size="6450"/>
+	<archive filename="l2text\dalam-ru\dw-proff\treasure_hunter.htm" checksum="E78F76A7" original="3321215C" size="22620"/>
+	<archive filename="l2text\dalam-ru\dw-proff\trickster.htm" checksum="9B431B65" original="CA0EA1E3" size="6148"/>
+	<archive filename="l2text\dalam-ru\dw-proff\trooper.htm" checksum="B25325E9" original="FF33C399" size="5242"/>
+	<archive filename="l2text\dalam-ru\dw-proff\tyrant.htm" checksum="CD7FD10E" original="F43A28C8" size="20138"/>
+	<archive filename="l2text\dalam-ru\dw-proff\warcryer.htm" checksum="8FBC78E9" original="1CA80C34" size="21000"/>
+	<archive filename="l2text\dalam-ru\dw-proff\warder.htm" checksum="A385418A" original="761F4BD4" size="4378"/>
+	<archive filename="l2text\dalam-ru\dw-proff\warlock.htm" checksum="13BC682D" original="FB7EEC15" size="28860"/>
+	<archive filename="l2text\dalam-ru\dw-proff\warlord.htm" checksum="D796AD03" original="19B1CCCF" size="18882"/>
+	<archive filename="l2text\dalam-ru\dw-proff\warrior.htm" checksum="22424415" original="80B57864" size="3068"/>
+	<archive filename="l2text\dalam-ru\dw-proff\warsmith.htm" checksum="E7CF7314" original="D6FD99E1" size="19734"/>
+	<archive filename="l2text\dalam-ru\dw-proff\wind_rider.htm" checksum="08558BF3" original="7CC6C754" size="7128"/>
+	<archive filename="l2text\dalam-ru\dw-proff\wizard.htm" checksum="F3D6D9C7" original="039C1FF1" size="3782"/>
+	<archive filename="l2text\dalam-ru\h233" checksum="1BC264F4" original="D06C0186" size="454"/>
+	<archive filename="l2text\dalam-ru\help.htm" checksum="E2D74DC5" original="B05B56F0" size="1354"/>
+	<archive filename="l2text\dalam-ru\help_craft.htm" checksum="48A4E1E2" original="611BB77D" size="25610"/>
+	<archive filename="l2text\dalam-ru\help_dwarvenpower.htm" checksum="F8CB116C" original="C4D16A78" size="27930"/>
+	<archive filename="l2text\dalam-ru\help_fish.htm" checksum="C21A6808" original="7D90A018" size="19544"/>
+	<archive filename="l2text\dalam-ru\help_info.htm" checksum="B05E5DCE" original="77A18794" size="2028"/>
+	<archive filename="l2text\dalam-ru\help_manor.htm" checksum="33CD2682" original="8A037EF8" size="19188"/>
+	<archive filename="l2text\dalam-ru\help_manorlord.htm" checksum="30DC5F43" original="41D2E03E" size="16318"/>
+	<archive filename="l2text\dalam-ru\help_nobie.htm" checksum="2CFC310F" original="7D6ECECC" size="5750"/>
+	<archive filename="l2text\dalam-ru\help_sa.htm" checksum="3927A0AC" original="CD2AFB53" size="21274"/>
+	<archive filename="l2text\dalam-ru\help_spoil.htm" checksum="C02E43B0" original="530A55DA" size="10036"/>
+	<archive filename="l2text\dalam-ru\help_tattoo.htm" checksum="60703832" original="220101AF" size="12926"/>
+	<archive filename="l2text\dalam-ru\hpod" checksum="3EE1B797" original="73CF4983" size="437"/>
+	<archive filename="l2text\help.htm" checksum="4C7C9028" original="EE2DE968" size="2038"/>
+	<archive filename="l2text\prof.htm" checksum="49C7A9D4" original="82CDFB3E" size="17016"/>
+	<archive filename="l2text\weapon\Bow.htm" checksum="18DD1ECE" original="BA367FAE" size="109478"/>
+	<archive filename="l2text\weapon\Club-Axe.htm" checksum="9C0C2B96" original="B1016705" size="142168"/>
+	<archive filename="l2text\weapon\Dagger.htm" checksum="55EBDEC9" original="0871BC56" size="144100"/>
+	<archive filename="l2text\weapon\Dual.htm" checksum="52E874A0" original="7710F6C1" size="201498"/>
+	<archive filename="l2text\weapon\Dualfist.htm" checksum="32362BB4" original="80121518" size="90458"/>
+	<archive filename="l2text\weapon\Fang.htm" checksum="C62078F8" original="C0BD265C" size="48482"/>
+	<archive filename="l2text\weapon\Pole.htm" checksum="390C83EC" original="5257876F" size="117826"/>
+	<archive filename="l2text\weapon\Rod-Book.htm" checksum="6285C383" original="65E70E4B" size="95748"/>
+	<archive filename="l2text\weapon\Shield.htm" checksum="0C228241" original="42262515" size="121734"/>
+	<archive filename="l2text\weapon\Staff.htm" checksum="FA401DB2" original="012514FF" size="148664"/>
+	<archive filename="l2text\weapon\Sword.htm" checksum="4F45BB56" original="3D406139" size="211726"/>
+	<archive filename="l2text\weapon\Sword2Handed.htm" checksum="C115D253" original="4DFD64F5" size="50592"/>
+	<archive filename="l2text\weapon\weapon.htm" checksum="1A05E06F" original="1B58AF98" size="2332"/>
+	<archive filename="systextures\help-r.utx" checksum="43E299F2" original="083C5A6A" size="1632392"/>
 	<archive filename="systextures\sp_256_01.bmp" checksum="312875FD" original="E41CF329" size="1228986"/>
 	<archive filename="systextures\sp_256_02.bmp" checksum="312875FD" original="E41CF329" size="1228986"/>
 	<archive filename="DalamWorld\l2.exe" checksum="F8F9D11F" original="7856FACC" size="737300"/>
@@ -444,7 +563,6 @@
 	<archive filename="forcefeedback\ifeel.ifr" checksum="03891BCF" original="785FA068" size="172412"/>
 	<archive filename="forcefeedback\other.ifr" checksum="0BBD25B4" original="AD054C42" size="149445"/>
 	<archive filename="l2text\dw" checksum="13B022EB" original="A6571E87" size="38982"/>
-	<archive filename="l2text\help.htm" checksum="015105F2" original="8C736148" size="1934"/>
 	<archive filename="l2text\help_action.htm" checksum="427A1970" original="5870997A" size="984"/>
 	<archive filename="l2text\help_action_basic.htm" checksum="A87CBE57" original="69133424" size="14374"/>
 	<archive filename="l2text\help_action_party.htm" checksum="DAE20072" original="7AF73A61" size="12742"/>
