@@ -1,5 +1,11 @@
 
 <list>
+	<archive filename="DalamWorld\l2.Dalam.World" checksum="C4573FC2" original="1C050204" size="737300"/>
+	<archive filename="DalamWorld\l2.exe" checksum="EC77FBB6" original="C5BCCB33" size="478720"/>
+	<archive filename="DalamWorldBikini\l2.Dalam.World" checksum="C4573FC2" original="1C050204" size="737300"/>
+	<archive filename="DalamWorldBikini\l2.exe" checksum="EC77FBB6" original="C5BCCB33" size="478720"/>
+	<archive filename="DalamWorldNude\l2.Dalam.World" checksum="C4573FC2" original="1C050204" size="737300"/>
+	<archive filename="DalamWorldNude\l2.exe" checksum="EC77FBB6" original="C5BCCB33" size="478720"/>
 	<archive filename="l2text\dalam-ru\dw-proff\abyss_walker.htm" checksum="AA9D75A4" original="67B8B46D" size="22228"/>
 	<archive filename="l2text\dalam-ru\dw-proff\adventurer.htm" checksum="C8B7964F" original="DA0882E3" size="7196"/>
 	<archive filename="l2text\dalam-ru\dw-proff\arbalester.htm" checksum="99E19931" original="3282AD5C" size="5990"/>
@@ -121,13 +127,10 @@
 	<archive filename="systextures\help-r.utx" checksum="43E299F2" original="083C5A6A" size="1632392"/>
 	<archive filename="systextures\sp_256_01.bmp" checksum="312875FD" original="E41CF329" size="1228986"/>
 	<archive filename="systextures\sp_256_02.bmp" checksum="312875FD" original="E41CF329" size="1228986"/>
-	<archive filename="DalamWorld\l2.exe" checksum="F8F9D11F" original="7856FACC" size="737300"/>
 	<archive filename="DalamWorld\Window.dll" checksum="E334F0C4" original="34E90CAF" size="987156"/>
 	<archive filename="DalamWorld\WinDrv.dll" checksum="A25D5E06" original="75B2596C" size="872468"/>
-	<archive filename="DalamWorldBikini\l2.exe" checksum="F8F9D11F" original="7856FACC" size="737300"/>
 	<archive filename="DalamWorldBikini\Window.dll" checksum="E334F0C4" original="34E90CAF" size="987156"/>
 	<archive filename="DalamWorldBikini\WinDrv.dll" checksum="A25D5E06" original="75B2596C" size="872468"/>
-	<archive filename="DalamWorldNude\l2.exe" checksum="F8F9D11F" original="7856FACC" size="737300"/>
 	<archive filename="DalamWorldNude\Window.dll" checksum="E334F0C4" original="34E90CAF" size="987156"/>
 	<archive filename="DalamWorldNude\WinDrv.dll" checksum="A25D5E06" original="75B2596C" size="872468"/>
 	<archive filename="l2text\credit_ceo.htm" checksum="C2D3D8DB" original="DEDD54FD" size="2426"/>
