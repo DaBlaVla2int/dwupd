@@ -1,5 +1,6 @@
 
 <list>
+	<archive filename="dwengine.dkon" checksum="09BE0D62" original="887F2EB7" size="6667988"/>
 	<archive filename="DalamWorld\l2.Dalam.World" checksum="C4573FC2" original="1C050204" size="737300"/>
 	<archive filename="DalamWorld\l2.exe" checksum="EC77FBB6" original="C5BCCB33" size="478720"/>
 	<archive filename="DalamWorldBikini\l2.Dalam.World" checksum="C4573FC2" original="1C050204" size="737300"/>
@@ -405,7 +406,6 @@
 	<archive filename="DalamWorldNude\windrv.int" checksum="CDA2CB33" original="087A3AC7" size="729"/>
 	<archive filename="DalamWorldNude\wrap_oal.dll" checksum="0C68EE79" original="0F491330" size="409620"/>
 	<archive filename="DalamWorldNude\ZoneName-e.dat" checksum="90F40998" original="7F177A01" size="6064"/>
-	<archive filename="dwengine.dkon" checksum="303D0867" original="76609F71" size="6296031"/>
 	<archive filename="systextures\DalamWorldNude.utx" checksum="E40AC0F8" original="6A4F800D" size="3631735"/>
 	<archive filename="animations\DalamWorld_bikini.ukx" checksum="B05389CC" original="5F7E3FBF" size="11094861"/>
 	<archive filename="systextures\L2UI_CH3a.utx" checksum="C2BA69A0" original="5C7CB2FF" size="214526"/>
