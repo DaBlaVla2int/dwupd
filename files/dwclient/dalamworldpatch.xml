@@ -1,5 +1,15 @@
 
 <list>
+	<archive filename="DalamWorld\DW.exe" checksum="EC77FBB6" original="C5BCCB33" size="478720"/>
+	<archive filename="DalamWorld\gametip-e.dat" checksum="96EAED02" original="312B064A" size="11952"/>
+	<archive filename="DalamWorld\itemname-e.dat" checksum="83CBCAEB" original="C949FE91" size="237488"/>
+	<archive filename="DalamWorldBikini\DW.exe" checksum="EC77FBB6" original="C5BCCB33" size="478720"/>
+	<archive filename="DalamWorldBikini\gametip-e.dat" checksum="96EAED02" original="312B064A" size="11952"/>
+	<archive filename="DalamWorldBikini\itemname-e.dat" checksum="83CBCAEB" original="C949FE91" size="237488"/>
+	<archive filename="DalamWorldNude\DW.exe" checksum="EC77FBB6" original="C5BCCB33" size="478720"/>
+	<archive filename="DalamWorldNude\gametip-e.dat" checksum="96EAED02" original="312B064A" size="11952"/>
+	<archive filename="DalamWorldNude\itemname-e.dat" checksum="83CBCAEB" original="C949FE91" size="237488"/>
+	<archive filename="systextures\DropItemsTex.utx" checksum="5435A398" original="3FC773FE" size="7905889"/>
 	<archive filename="dwengine.dkon" checksum="09BE0D62" original="887F2EB7" size="6667988"/>
 	<archive filename="DalamWorld\l2.Dalam.World" checksum="C4573FC2" original="1C050204" size="737300"/>
 	<archive filename="DalamWorld\l2.exe" checksum="EC77FBB6" original="C5BCCB33" size="478720"/>
@@ -171,7 +181,6 @@
 	<archive filename="DalamWorldBikini\Fire.u" checksum="72264292" original="E05CC6FC" size="15491"/>
 	<archive filename="DalamWorldBikini\GameGuard.des" checksum="8AA3F98A" original="A6D97E7C" size="153375"/>
 	<archive filename="DalamWorldBikini\GamePlay.u" checksum="82F9947A" original="EF316D32" size="212008"/>
-	<archive filename="DalamWorldBikini\gametip-e.dat" checksum="879CEBDB" original="A54211EA" size="11952"/>
 	<archive filename="DalamWorldBikini\Hair.int" checksum="67DAA863" original="326576F5" size="110933"/>
 	<archive filename="DalamWorldBikini\hairaccessarygrp.dat" checksum="8C2689FE" original="B300B67F" size="432"/>
 	<archive filename="DalamWorldBikini\hairaccessorylocgrp.dat" checksum="2407F10E" original="E26DA9BE" size="4144"/>
@@ -185,7 +194,6 @@
 	<archive filename="DalamWorldBikini\IpDrv.dll" checksum="CE2E34CB" original="4EF75ABF" size="491540"/>
 	<archive filename="DalamWorldBikini\ipdrv.int" checksum="6894930B" original="2C8050ED" size="1840"/>
 	<archive filename="DalamWorldBikini\IpDrv.u" checksum="4A7C63EB" original="40CD4BC8" size="73703"/>
-	<archive filename="DalamWorldBikini\itemname-e.dat" checksum="8334C8C3" original="858B50DE" size="237488"/>
 	<archive filename="DalamWorldBikini\l2.ini" checksum="F48AD0A3" original="0610C71F" size="3632"/>
 	<archive filename="DalamWorldBikini\l2.int" checksum="1FB28886" original="539D9385" size="164"/>
 	<archive filename="DalamWorldBikini\L2CompiledShader.bin" checksum="8CE52913" original="2144DF1C" size="4"/>
@@ -306,7 +314,6 @@
 	<archive filename="DalamWorldNude\Fire.u" checksum="72264292" original="E05CC6FC" size="15491"/>
 	<archive filename="DalamWorldNude\GameGuard.des" checksum="8AA3F98A" original="A6D97E7C" size="153375"/>
 	<archive filename="DalamWorldNude\GamePlay.u" checksum="82F9947A" original="EF316D32" size="212008"/>
-	<archive filename="DalamWorldNude\gametip-e.dat" checksum="879CEBDB" original="A54211EA" size="11952"/>
 	<archive filename="DalamWorldNude\Hair.int" checksum="67DAA863" original="326576F5" size="110933"/>
 	<archive filename="DalamWorldNude\hairaccessarygrp.dat" checksum="8C2689FE" original="B300B67F" size="432"/>
 	<archive filename="DalamWorldNude\hairaccessorylocgrp.dat" checksum="2407F10E" original="E26DA9BE" size="4144"/>
@@ -320,7 +327,6 @@
 	<archive filename="DalamWorldNude\IpDrv.dll" checksum="CE2E34CB" original="4EF75ABF" size="491540"/>
 	<archive filename="DalamWorldNude\ipdrv.int" checksum="6894930B" original="2C8050ED" size="1840"/>
 	<archive filename="DalamWorldNude\IpDrv.u" checksum="4A7C63EB" original="40CD4BC8" size="73703"/>
-	<archive filename="DalamWorldNude\itemname-e.dat" checksum="8334C8C3" original="858B50DE" size="237488"/>
 	<archive filename="DalamWorldNude\l2.ini" checksum="F48AD0A3" original="0610C71F" size="3632"/>
 	<archive filename="DalamWorldNude\l2.int" checksum="1FB28886" original="539D9385" size="164"/>
 	<archive filename="DalamWorldNude\L2CompiledShader.bin" checksum="8CE52913" original="2144DF1C" size="4"/>
@@ -463,7 +469,6 @@
 	<archive filename="DalamWorld\Fire.u" checksum="72264292" original="E05CC6FC" size="15491"/>
 	<archive filename="DalamWorld\GameGuard.des" checksum="8AA3F98A" original="A6D97E7C" size="153375"/>
 	<archive filename="DalamWorld\GamePlay.u" checksum="82F9947A" original="EF316D32" size="212008"/>
-	<archive filename="DalamWorld\gametip-e.dat" checksum="879CEBDB" original="A54211EA" size="11952"/>
 	<archive filename="DalamWorld\Hair.int" checksum="67DAA863" original="326576F5" size="110933"/>
 	<archive filename="DalamWorld\hairaccessarygrp.dat" checksum="8C2689FE" original="B300B67F" size="432"/>
 	<archive filename="DalamWorld\hairaccessorylocgrp.dat" checksum="2407F10E" original="E26DA9BE" size="4144"/>
@@ -477,7 +482,6 @@
 	<archive filename="DalamWorld\IpDrv.dll" checksum="CE2E34CB" original="4EF75ABF" size="491540"/>
 	<archive filename="DalamWorld\ipdrv.int" checksum="6894930B" original="2C8050ED" size="1840"/>
 	<archive filename="DalamWorld\IpDrv.u" checksum="4A7C63EB" original="40CD4BC8" size="73703"/>
-	<archive filename="DalamWorld\itemname-e.dat" checksum="8334C8C3" original="858B50DE" size="237488"/>
 	<archive filename="DalamWorld\l2.ini" checksum="F48AD0A3" original="0610C71F" size="3632"/>
 	<archive filename="DalamWorld\l2.int" checksum="1FB28886" original="539D9385" size="164"/>
 	<archive filename="DalamWorld\L2CompiledShader.bin" checksum="8CE52913" original="2144DF1C" size="4"/>
@@ -1326,7 +1330,6 @@
 	<archive filename="staticmeshes\world_statue_s.usx" checksum="1FCBC0CF" original="2CE5C965" size="1411276"/>
 	<archive filename="systextures\cubemaps.utx" checksum="8EE9763A" original="8E0B5318" size="50404"/>
 	<archive filename="systextures\default.utx" checksum="93903D77" original="223EC2D5" size="1166480"/>
-	<archive filename="systextures\DropItemsTex.utx" checksum="8CC14C22" original="84BF2455" size="7893369"/>
 	<archive filename="systextures\fdarkelf.utx" checksum="F714C99D" original="E05588CB" size="63136268"/>
 	<archive filename="systextures\fdwarf.utx" checksum="E9ADAF1D" original="3F0A2C50" size="61462100"/>
 	<archive filename="systextures\felf.utx" checksum="E17147D8" original="FCB2DD7A" size="64866375"/>
