@@ -1,14 +1,22 @@
 
 <list>
+	<archive filename="animations\DalamWorldRedKing.ukx" checksum="0AA1F933" original="04827494" size="18934245"/>
+	<archive filename="animations\Thalina.ukx" checksum="7B3C197C" original="F3F9F4B9" size="5722344"/>
+	<archive filename="DalamWorld\armorgrp.dat" checksum="8DA0849D" original="673AC170" size="102064"/>
+	<archive filename="DalamWorld\itemname-e.dat" checksum="E2152615" original="530CA2A6" size="237488"/>
+	<archive filename="DalamWorld\npcgrp.dat" checksum="4D6D3D55" original="874E43C1" size="233520"/>
+	<archive filename="DalamWorldBikini\armorgrp.dat" checksum="8DA0849D" original="673AC170" size="102064"/>
+	<archive filename="DalamWorldBikini\itemname-e.dat" checksum="E2152615" original="530CA2A6" size="237488"/>
+	<archive filename="DalamWorldBikini\npcgrp.dat" checksum="4D6D3D55" original="874E43C1" size="233520"/>
+	<archive filename="DalamWorldNude\armorgrp.dat" checksum="8DA0849D" original="673AC170" size="102064"/>
+	<archive filename="DalamWorldNude\itemname-e.dat" checksum="E2152615" original="530CA2A6" size="237488"/>
+	<archive filename="DalamWorldNude\npcgrp.dat" checksum="4D6D3D55" original="874E43C1" size="233520"/>
 	<archive filename="DalamWorld\DW.exe" checksum="EC77FBB6" original="C5BCCB33" size="478720"/>
 	<archive filename="DalamWorld\gametip-e.dat" checksum="96EAED02" original="312B064A" size="11952"/>
-	<archive filename="DalamWorld\itemname-e.dat" checksum="83CBCAEB" original="C949FE91" size="237488"/>
 	<archive filename="DalamWorldBikini\DW.exe" checksum="EC77FBB6" original="C5BCCB33" size="478720"/>
 	<archive filename="DalamWorldBikini\gametip-e.dat" checksum="96EAED02" original="312B064A" size="11952"/>
-	<archive filename="DalamWorldBikini\itemname-e.dat" checksum="83CBCAEB" original="C949FE91" size="237488"/>
 	<archive filename="DalamWorldNude\DW.exe" checksum="EC77FBB6" original="C5BCCB33" size="478720"/>
 	<archive filename="DalamWorldNude\gametip-e.dat" checksum="96EAED02" original="312B064A" size="11952"/>
-	<archive filename="DalamWorldNude\itemname-e.dat" checksum="83CBCAEB" original="C949FE91" size="237488"/>
 	<archive filename="systextures\DropItemsTex.utx" checksum="5435A398" original="3FC773FE" size="7905889"/>
 	<archive filename="dwengine.dkon" checksum="09BE0D62" original="887F2EB7" size="6667988"/>
 	<archive filename="DalamWorld\l2.Dalam.World" checksum="C4573FC2" original="1C050204" size="737300"/>
@@ -146,7 +154,6 @@
 	<archive filename="DalamWorldBikini\actionname-e.dat" checksum="8393C42F" original="22AB827D" size="7216"/>
 	<archive filename="DalamWorldBikini\ALAudio.dll" checksum="F62AD140" original="5A5AF292" size="352276"/>
 	<archive filename="DalamWorldBikini\ALAudio.int" checksum="C69EF112" original="14AC3D8E" size="2658"/>
-	<archive filename="DalamWorldBikini\armorgrp.dat" checksum="3B7FAF07" original="40FA6FBE" size="101552"/>
 	<archive filename="DalamWorldBikini\asiahm-medium.ttf" checksum="ECDFFF3A" original="BC4FF79B" size="601048"/>
 	<archive filename="DalamWorldBikini\bighead.int" checksum="53834160" original="4A658EBB" size="350"/>
 	<archive filename="DalamWorldBikini\castlename-e.dat" checksum="7781E9D8" original="E8BF8E2C" size="1072"/>
@@ -226,7 +233,6 @@
 	<archive filename="DalamWorldBikini\msxml4a.dll" checksum="2F7AC686" original="1C42035F" size="44564"/>
 	<archive filename="DalamWorldBikini\msxml4r.dll" checksum="68021E96" original="05703EE7" size="82452"/>
 	<archive filename="DalamWorldBikini\musicinfo.dat" checksum="B30A9D10" original="803E72BE" size="3376"/>
-	<archive filename="DalamWorldBikini\npcgrp.dat" checksum="D7C3993C" original="0CE281EE" size="233392"/>
 	<archive filename="DalamWorldBikini\NpcName-e.dat" checksum="272B308C" original="251494C5" size="57648"/>
 	<archive filename="DalamWorldBikini\npkcrypt.dll" checksum="C91E8CBD" original="DBA37475" size="409700"/>
 	<archive filename="DalamWorldBikini\npkcrypt.sys" checksum="7EB73235" original="D90F94E6" size="23217"/>
@@ -279,7 +285,6 @@
 	<archive filename="DalamWorldNude\actionname-e.dat" checksum="8393C42F" original="22AB827D" size="7216"/>
 	<archive filename="DalamWorldNude\ALAudio.dll" checksum="F62AD140" original="5A5AF292" size="352276"/>
 	<archive filename="DalamWorldNude\ALAudio.int" checksum="C69EF112" original="14AC3D8E" size="2658"/>
-	<archive filename="DalamWorldNude\armorgrp.dat" checksum="3B7FAF07" original="40FA6FBE" size="101552"/>
 	<archive filename="DalamWorldNude\asiahm-medium.ttf" checksum="ECDFFF3A" original="BC4FF79B" size="601048"/>
 	<archive filename="DalamWorldNude\bighead.int" checksum="53834160" original="4A658EBB" size="350"/>
 	<archive filename="DalamWorldNude\castlename-e.dat" checksum="7781E9D8" original="E8BF8E2C" size="1072"/>
@@ -359,7 +364,6 @@
 	<archive filename="DalamWorldNude\msxml4a.dll" checksum="2F7AC686" original="1C42035F" size="44564"/>
 	<archive filename="DalamWorldNude\msxml4r.dll" checksum="68021E96" original="05703EE7" size="82452"/>
 	<archive filename="DalamWorldNude\musicinfo.dat" checksum="B30A9D10" original="803E72BE" size="3376"/>
-	<archive filename="DalamWorldNude\npcgrp.dat" checksum="D7C3993C" original="0CE281EE" size="233392"/>
 	<archive filename="DalamWorldNude\NpcName-e.dat" checksum="272B308C" original="251494C5" size="57648"/>
 	<archive filename="DalamWorldNude\npkcrypt.dll" checksum="C91E8CBD" original="DBA37475" size="409700"/>
 	<archive filename="DalamWorldNude\npkcrypt.sys" checksum="7EB73235" original="D90F94E6" size="23217"/>
@@ -434,7 +438,6 @@
 	<archive filename="DalamWorld\actionname-e.dat" checksum="8393C42F" original="22AB827D" size="7216"/>
 	<archive filename="DalamWorld\ALAudio.dll" checksum="F62AD140" original="5A5AF292" size="352276"/>
 	<archive filename="DalamWorld\ALAudio.int" checksum="C69EF112" original="14AC3D8E" size="2658"/>
-	<archive filename="DalamWorld\armorgrp.dat" checksum="3B7FAF07" original="40FA6FBE" size="101552"/>
 	<archive filename="DalamWorld\asiahm-medium.ttf" checksum="ECDFFF3A" original="BC4FF79B" size="601048"/>
 	<archive filename="DalamWorld\bighead.int" checksum="53834160" original="4A658EBB" size="350"/>
 	<archive filename="DalamWorld\castlename-e.dat" checksum="7781E9D8" original="E8BF8E2C" size="1072"/>
@@ -514,7 +517,6 @@
 	<archive filename="DalamWorld\msxml4a.dll" checksum="2F7AC686" original="1C42035F" size="44564"/>
 	<archive filename="DalamWorld\msxml4r.dll" checksum="68021E96" original="05703EE7" size="82452"/>
 	<archive filename="DalamWorld\musicinfo.dat" checksum="B30A9D10" original="803E72BE" size="3376"/>
-	<archive filename="DalamWorld\npcgrp.dat" checksum="D7C3993C" original="0CE281EE" size="233392"/>
 	<archive filename="DalamWorld\NpcName-e.dat" checksum="272B308C" original="251494C5" size="57648"/>
 	<archive filename="DalamWorld\npkcrypt.dll" checksum="C91E8CBD" original="DBA37475" size="409700"/>
 	<archive filename="DalamWorld\npkcrypt.sys" checksum="7EB73235" original="D90F94E6" size="23217"/>
