@@ -1,14 +1,18 @@
 
 <list>
-	<archive filename="DalamWorld\armorgrp.dat" checksum="2235AC1E" original="88EA0507" size="102576"/>
+    <archive filename="animations\DalamWorld_RoseValley.ukx" checksum="48CDF885" original="ECC53DF9" size="12613534"/>
+	<archive filename="DalamWorld\armorgrp.dat" checksum="F7CD8794" original="BA432E90" size="103472"/>
+	<archive filename="DalamWorld\itemname-e.dat" checksum="AAB26D36" original="BA0F3396" size="237616"/>
+	<archive filename="DalamWorld\npcgrp.dat" checksum="A325CD63" original="16ADAC25" size="233520"/>
+	<archive filename="DalamWorldBikini\armorgrp.dat" checksum="F7CD8794" original="BA432E90" size="103472"/>
+	<archive filename="DalamWorldBikini\itemname-e.dat" checksum="AAB26D36" original="BA0F3396" size="237616"/>
+	<archive filename="DalamWorldBikini\npcgrp.dat" checksum="A325CD63" original="16ADAC25" size="233520"/>
+	<archive filename="DalamWorldNude\armorgrp.dat" checksum="F7CD8794" original="BA432E90" size="103472"/>
+	<archive filename="DalamWorldNude\itemname-e.dat" checksum="AAB26D36" original="BA0F3396" size="237616"/>
+	<archive filename="DalamWorldNude\npcgrp.dat" checksum="A325CD63" original="16ADAC25" size="233520"/>
 	<archive filename="DalamWorld\hairaccessorylocgrp.dat" checksum="9F127205" original="BBB8FB8E" size="4912"/>
-	<archive filename="DalamWorld\itemname-e.dat" checksum="2BE888FC" original="21CF895C" size="237488"/>
-	<archive filename="DalamWorldBikini\armorgrp.dat" checksum="2235AC1E" original="88EA0507" size="102576"/>
 	<archive filename="DalamWorldBikini\hairaccessorylocgrp.dat" checksum="9F127205" original="BBB8FB8E" size="4912"/>
-	<archive filename="DalamWorldBikini\itemname-e.dat" checksum="2BE888FC" original="21CF895C" size="237488"/>
-	<archive filename="DalamWorldNude\armorgrp.dat" checksum="2235AC1E" original="88EA0507" size="102576"/>
 	<archive filename="DalamWorldNude\hairaccessorylocgrp.dat" checksum="9F127205" original="BBB8FB8E" size="4912"/>
-	<archive filename="DalamWorldNude\itemname-e.dat" checksum="2BE888FC" original="21CF895C" size="237488"/>
 	<archive filename="systextures\JohnScott_Goddess_Hair.utx" checksum="64D87E5C" original="1A9438A0" size="2457781"/>
 	<archive filename="animations\DalamWorld_Hair_FDarkElf_h00_m005.ukx" checksum="CDC8FB38" original="96AC059C" size="9422"/>
 	<archive filename="animations\DalamWorld_Hair_FDarkElf_h01_m005.ukx" checksum="2986E913" original="87DFBD58" size="14730"/>
@@ -40,9 +44,6 @@
 	<archive filename="animations\DalamWorld_Hair_MShaman_h01_m005.ukx" checksum="9C75F5CF" original="7F4311AB" size="19207"/>
 	<archive filename="animations\DalamWorldRedKing.ukx" checksum="0AA1F933" original="04827494" size="18934245"/>
 	<archive filename="animations\Thalina.ukx" checksum="7B3C197C" original="F3F9F4B9" size="5722344"/>
-	<archive filename="DalamWorld\npcgrp.dat" checksum="4D6D3D55" original="874E43C1" size="233520"/>
-	<archive filename="DalamWorldBikini\npcgrp.dat" checksum="4D6D3D55" original="874E43C1" size="233520"/>
-	<archive filename="DalamWorldNude\npcgrp.dat" checksum="4D6D3D55" original="874E43C1" size="233520"/>
 	<archive filename="DalamWorld\DW.exe" checksum="EC77FBB6" original="C5BCCB33" size="478720"/>
 	<archive filename="DalamWorld\gametip-e.dat" checksum="96EAED02" original="312B064A" size="11952"/>
 	<archive filename="DalamWorldBikini\DW.exe" checksum="EC77FBB6" original="C5BCCB33" size="478720"/>
