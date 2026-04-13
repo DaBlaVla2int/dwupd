@@ -1,15 +1,47 @@
 
 <list>
+	<archive filename="DalamWorld\armorgrp.dat" checksum="2235AC1E" original="88EA0507" size="102576"/>
+	<archive filename="DalamWorld\hairaccessorylocgrp.dat" checksum="9F127205" original="BBB8FB8E" size="4912"/>
+	<archive filename="DalamWorld\itemname-e.dat" checksum="2BE888FC" original="21CF895C" size="237488"/>
+	<archive filename="DalamWorldBikini\armorgrp.dat" checksum="2235AC1E" original="88EA0507" size="102576"/>
+	<archive filename="DalamWorldBikini\hairaccessorylocgrp.dat" checksum="9F127205" original="BBB8FB8E" size="4912"/>
+	<archive filename="DalamWorldBikini\itemname-e.dat" checksum="2BE888FC" original="21CF895C" size="237488"/>
+	<archive filename="DalamWorldNude\armorgrp.dat" checksum="2235AC1E" original="88EA0507" size="102576"/>
+	<archive filename="DalamWorldNude\hairaccessorylocgrp.dat" checksum="9F127205" original="BBB8FB8E" size="4912"/>
+	<archive filename="DalamWorldNude\itemname-e.dat" checksum="2BE888FC" original="21CF895C" size="237488"/>
+	<archive filename="systextures\JohnScott_Goddess_Hair.utx" checksum="64D87E5C" original="1A9438A0" size="2457781"/>
+	<archive filename="animations\DalamWorld_Hair_FDarkElf_h00_m005.ukx" checksum="CDC8FB38" original="96AC059C" size="9422"/>
+	<archive filename="animations\DalamWorld_Hair_FDarkElf_h01_m005.ukx" checksum="2986E913" original="87DFBD58" size="14730"/>
+	<archive filename="animations\DalamWorld_Hair_FDwarf_h00_m005.ukx" checksum="10DE4B7B" original="E18DF5D3" size="10084"/>
+	<archive filename="animations\DalamWorld_Hair_FDwarf_h01_m005.ukx" checksum="92062362" original="559D0370" size="26570"/>
+	<archive filename="animations\DalamWorld_Hair_FElf_h00_m005.ukx" checksum="D14FBE18" original="7555C3D7" size="13576"/>
+	<archive filename="animations\DalamWorld_Hair_FElf_h01_m005.ukx" checksum="7C133A3D" original="B9F813EF" size="14702"/>
+	<archive filename="animations\DalamWorld_Hair_FFighter_h00_m005.ukx" checksum="A41C95BA" original="DD0292BB" size="12932"/>
+	<archive filename="animations\DalamWorld_Hair_FFighter_h01_m005.ukx" checksum="67B5B322" original="7B96BDC1" size="9038"/>
+	<archive filename="animations\DalamWorld_Hair_FMagic_h00_m005.ukx" checksum="6823852C" original="F46BA3D6" size="15854"/>
+	<archive filename="animations\DalamWorld_Hair_FMagic_h01_m005.ukx" checksum="C038C6BE" original="092738D1" size="16346"/>
+	<archive filename="animations\DalamWorld_Hair_FOrc_h00_m005.ukx" checksum="4DDF4B17" original="E33428A6" size="18144"/>
+	<archive filename="animations\DalamWorld_Hair_FOrc_h01_m005.ukx" checksum="8AA81293" original="136BE974" size="17602"/>
+	<archive filename="animations\DalamWorld_Hair_FShaman_h00_m005.ukx" checksum="AC1F7298" original="617BB8FB" size="26157"/>
+	<archive filename="animations\DalamWorld_Hair_FShaman_h01_m005.ukx" checksum="D09A29BA" original="B5557EA8" size="12091"/>
+	<archive filename="animations\DalamWorld_Hair_MDarkElf_h00_m005.ukx" checksum="3456906E" original="99003226" size="12814"/>
+	<archive filename="animations\DalamWorld_Hair_MDarkElf_h01_m005.ukx" checksum="4B6D3E85" original="A915333D" size="13736"/>
+	<archive filename="animations\DalamWorld_Hair_MDwarf_h00_m005.ukx" checksum="1B881A63" original="D01002B1" size="14318"/>
+	<archive filename="animations\DalamWorld_Hair_MDwarf_h01_m005.ukx" checksum="79167D0E" original="24BD499B" size="14852"/>
+	<archive filename="animations\DalamWorld_Hair_MElf_h00_m005.ukx" checksum="C29C8637" original="4736555A" size="9866"/>
+	<archive filename="animations\DalamWorld_Hair_MElf_h01_m005.ukx" checksum="FC3D2FF2" original="2331480E" size="11472"/>
+	<archive filename="animations\DalamWorld_Hair_MFighter_h00_m005.ukx" checksum="D105CFE0" original="DBC9C2A2" size="22390"/>
+	<archive filename="animations\DalamWorld_Hair_MFighter_h01_m005.ukx" checksum="7E2F3822" original="8B366605" size="11932"/>
+	<archive filename="animations\DalamWorld_Hair_MMagic_h00_m005.ukx" checksum="6F582823" original="98A92B2B" size="11798"/>
+	<archive filename="animations\DalamWorld_Hair_MMagic_h01_m005.ukx" checksum="B2AAA19D" original="7D9CFF63" size="12366"/>
+	<archive filename="animations\DalamWorld_Hair_MOrc_h00_m005.ukx" checksum="63169B26" original="6AF7F537" size="16374"/>
+	<archive filename="animations\DalamWorld_Hair_MOrc_h01_m005.ukx" checksum="4A1D63AB" original="93C0E924" size="9242"/>
+	<archive filename="animations\DalamWorld_Hair_MShaman_h00_m005.ukx" checksum="A89753E6" original="7BAA947F" size="14253"/>
+	<archive filename="animations\DalamWorld_Hair_MShaman_h01_m005.ukx" checksum="9C75F5CF" original="7F4311AB" size="19207"/>
 	<archive filename="animations\DalamWorldRedKing.ukx" checksum="0AA1F933" original="04827494" size="18934245"/>
 	<archive filename="animations\Thalina.ukx" checksum="7B3C197C" original="F3F9F4B9" size="5722344"/>
-	<archive filename="DalamWorld\armorgrp.dat" checksum="8DA0849D" original="673AC170" size="102064"/>
-	<archive filename="DalamWorld\itemname-e.dat" checksum="E2152615" original="530CA2A6" size="237488"/>
 	<archive filename="DalamWorld\npcgrp.dat" checksum="4D6D3D55" original="874E43C1" size="233520"/>
-	<archive filename="DalamWorldBikini\armorgrp.dat" checksum="8DA0849D" original="673AC170" size="102064"/>
-	<archive filename="DalamWorldBikini\itemname-e.dat" checksum="E2152615" original="530CA2A6" size="237488"/>
 	<archive filename="DalamWorldBikini\npcgrp.dat" checksum="4D6D3D55" original="874E43C1" size="233520"/>
-	<archive filename="DalamWorldNude\armorgrp.dat" checksum="8DA0849D" original="673AC170" size="102064"/>
-	<archive filename="DalamWorldNude\itemname-e.dat" checksum="E2152615" original="530CA2A6" size="237488"/>
 	<archive filename="DalamWorldNude\npcgrp.dat" checksum="4D6D3D55" original="874E43C1" size="233520"/>
 	<archive filename="DalamWorld\DW.exe" checksum="EC77FBB6" original="C5BCCB33" size="478720"/>
 	<archive filename="DalamWorld\gametip-e.dat" checksum="96EAED02" original="312B064A" size="11952"/>
@@ -187,7 +219,6 @@
 	<archive filename="DalamWorldBikini\GamePlay.u" checksum="82F9947A" original="EF316D32" size="212008"/>
 	<archive filename="DalamWorldBikini\Hair.int" checksum="67DAA863" original="326576F5" size="110933"/>
 	<archive filename="DalamWorldBikini\hairaccessarygrp.dat" checksum="8C2689FE" original="B300B67F" size="432"/>
-	<archive filename="DalamWorldBikini\hairaccessorylocgrp.dat" checksum="2407F10E" original="E26DA9BE" size="4144"/>
 	<archive filename="DalamWorldBikini\hairgrp.dat" checksum="6A8FE6EA" original="9802F7E8" size="304"/>
 	<archive filename="DalamWorldBikini\helmetgrp.dat" checksum="45E42DEA" original="40197C58" size="432"/>
 	<archive filename="DalamWorldBikini\hennagrp-e.dat" checksum="E1CD312C" original="45059347" size="1968"/>
@@ -318,7 +349,6 @@
 	<archive filename="DalamWorldNude\GamePlay.u" checksum="82F9947A" original="EF316D32" size="212008"/>
 	<archive filename="DalamWorldNude\Hair.int" checksum="67DAA863" original="326576F5" size="110933"/>
 	<archive filename="DalamWorldNude\hairaccessarygrp.dat" checksum="8C2689FE" original="B300B67F" size="432"/>
-	<archive filename="DalamWorldNude\hairaccessorylocgrp.dat" checksum="2407F10E" original="E26DA9BE" size="4144"/>
 	<archive filename="DalamWorldNude\hairgrp.dat" checksum="6A8FE6EA" original="9802F7E8" size="304"/>
 	<archive filename="DalamWorldNude\helmetgrp.dat" checksum="45E42DEA" original="40197C58" size="432"/>
 	<archive filename="DalamWorldNude\hennagrp-e.dat" checksum="E1CD312C" original="45059347" size="1968"/>
@@ -471,7 +501,6 @@
 	<archive filename="DalamWorld\GamePlay.u" checksum="82F9947A" original="EF316D32" size="212008"/>
 	<archive filename="DalamWorld\Hair.int" checksum="67DAA863" original="326576F5" size="110933"/>
 	<archive filename="DalamWorld\hairaccessarygrp.dat" checksum="8C2689FE" original="B300B67F" size="432"/>
-	<archive filename="DalamWorld\hairaccessorylocgrp.dat" checksum="2407F10E" original="E26DA9BE" size="4144"/>
 	<archive filename="DalamWorld\hairgrp.dat" checksum="6A8FE6EA" original="9802F7E8" size="304"/>
 	<archive filename="DalamWorld\helmetgrp.dat" checksum="45E42DEA" original="40197C58" size="432"/>
 	<archive filename="DalamWorld\hennagrp-e.dat" checksum="E1CD312C" original="45059347" size="1968"/>
