@@ -1,6 +1,7 @@
+
 <options>
 	<title>Dalam World</title>
-	<uid>{6DALAMB-41WORLD7F-9DALAM2A-0WORLD59-3BESTGAME}</uid>
+	<uid>{03FFD0FA-23FCC97E-F652982B-61AFC858-55E7FB7B}</uid>
 	<options>http://dwupdnossl.fastmsg.ru/config/precfg.xml</options>
 	<news>http://api.dalam.world/launcher/dalamworld/pre.php</news>
 	<patchlist>http://dwupdnossl.fastmsg.ru/files/dwclient/prelaucherpatch.xml</patchlist>
@@ -11,5 +12,4 @@
 		<program>DalamWorldNude/Prlnch.url</program>
 		<close_updater/>
 	</run>
-	
 </options>
