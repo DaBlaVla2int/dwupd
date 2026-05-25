@@ -1,5 +1,8 @@
 
 <list>
+	<archive filename="DalamWorld\l2.ini" checksum="E2F36A9B" original="53E66F0A" size="3504"/>
+	<archive filename="DalamWorldBikini\l2.ini" checksum="E2F36A9B" original="53E66F0A" size="3504"/>
+	<archive filename="DalamWorldNude\l2.ini" checksum="E2F36A9B" original="53E66F0A" size="3504"/>
     <archive filename="animations\DalamWorld_RoseValley.ukx" checksum="48CDF885" original="ECC53DF9" size="12613534"/>
 	<archive filename="DalamWorld\armorgrp.dat" checksum="F7CD8794" original="BA432E90" size="103472"/>
 	<archive filename="DalamWorld\itemname-e.dat" checksum="AAB26D36" original="BA0F3396" size="237616"/>
@@ -230,7 +233,6 @@
 	<archive filename="DalamWorldBikini\IpDrv.dll" checksum="CE2E34CB" original="4EF75ABF" size="491540"/>
 	<archive filename="DalamWorldBikini\ipdrv.int" checksum="6894930B" original="2C8050ED" size="1840"/>
 	<archive filename="DalamWorldBikini\IpDrv.u" checksum="4A7C63EB" original="40CD4BC8" size="73703"/>
-	<archive filename="DalamWorldBikini\l2.ini" checksum="F48AD0A3" original="0610C71F" size="3632"/>
 	<archive filename="DalamWorldBikini\l2.int" checksum="1FB28886" original="539D9385" size="164"/>
 	<archive filename="DalamWorldBikini\L2CompiledShader.bin" checksum="8CE52913" original="2144DF1C" size="4"/>
 	<archive filename="DalamWorldBikini\L2DiscordPresence.dll" checksum="10BD0A9D" original="565DFB4A" size="112640"/>
@@ -360,7 +362,6 @@
 	<archive filename="DalamWorldNude\IpDrv.dll" checksum="CE2E34CB" original="4EF75ABF" size="491540"/>
 	<archive filename="DalamWorldNude\ipdrv.int" checksum="6894930B" original="2C8050ED" size="1840"/>
 	<archive filename="DalamWorldNude\IpDrv.u" checksum="4A7C63EB" original="40CD4BC8" size="73703"/>
-	<archive filename="DalamWorldNude\l2.ini" checksum="F48AD0A3" original="0610C71F" size="3632"/>
 	<archive filename="DalamWorldNude\l2.int" checksum="1FB28886" original="539D9385" size="164"/>
 	<archive filename="DalamWorldNude\L2CompiledShader.bin" checksum="8CE52913" original="2144DF1C" size="4"/>
 	<archive filename="DalamWorldNude\L2DiscordPresence.dll" checksum="10BD0A9D" original="565DFB4A" size="112640"/>
@@ -512,7 +513,6 @@
 	<archive filename="DalamWorld\IpDrv.dll" checksum="CE2E34CB" original="4EF75ABF" size="491540"/>
 	<archive filename="DalamWorld\ipdrv.int" checksum="6894930B" original="2C8050ED" size="1840"/>
 	<archive filename="DalamWorld\IpDrv.u" checksum="4A7C63EB" original="40CD4BC8" size="73703"/>
-	<archive filename="DalamWorld\l2.ini" checksum="F48AD0A3" original="0610C71F" size="3632"/>
 	<archive filename="DalamWorld\l2.int" checksum="1FB28886" original="539D9385" size="164"/>
 	<archive filename="DalamWorld\L2CompiledShader.bin" checksum="8CE52913" original="2144DF1C" size="4"/>
 	<archive filename="DalamWorld\L2DiscordPresence.dll" checksum="10BD0A9D" original="565DFB4A" size="112640"/>
