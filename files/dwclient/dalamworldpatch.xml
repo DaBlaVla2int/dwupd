@@ -1,5 +1,8 @@
 
 <list>
+	<archive filename="DalamWorld\WindowsInfo.ini" checksum="541D3348" original="A0BC2648" size="2122"/>
+	<archive filename="DalamWorldBikini\WindowsInfo.ini" checksum="541D3348" original="A0BC2648" size="2122"/>
+	<archive filename="DalamWorldNude\WindowsInfo.ini" checksum="541D3348" original="A0BC2648" size="2122"/>
 	<archive filename="DalamWorld\l2.ini" checksum="E2F36A9B" original="53E66F0A" size="3504"/>
 	<archive filename="DalamWorldBikini\l2.ini" checksum="E2F36A9B" original="53E66F0A" size="3504"/>
 	<archive filename="DalamWorldNude\l2.ini" checksum="E2F36A9B" original="53E66F0A" size="3504"/>
@@ -312,7 +315,6 @@
 	<archive filename="DalamWorldBikini\weapongrp.dat" checksum="E69ADCC1" original="F47DE9C9" size="78128"/>
 	<archive filename="DalamWorldBikini\wform.bm" checksum="2BAF65BB" original="FEB585DE" size="527005"/>
 	<archive filename="DalamWorldBikini\Window.int" checksum="5F6DC77C" original="49D76592" size="2316"/>
-	<archive filename="DalamWorldBikini\WindowsInfo.ini" checksum="894D3080" original="C82C6F6E" size="2185"/>
 	<archive filename="DalamWorldBikini\windrv.int" checksum="CDA2CB33" original="087A3AC7" size="729"/>
 	<archive filename="DalamWorldBikini\wrap_oal.dll" checksum="0C68EE79" original="0F491330" size="409620"/>
 	<archive filename="DalamWorldBikini\ZoneName-e.dat" checksum="90F40998" original="7F177A01" size="6064"/>
@@ -441,7 +443,6 @@
 	<archive filename="DalamWorldNude\weapongrp.dat" checksum="E69ADCC1" original="F47DE9C9" size="78128"/>
 	<archive filename="DalamWorldNude\wform.bm" checksum="2BAF65BB" original="FEB585DE" size="527005"/>
 	<archive filename="DalamWorldNude\Window.int" checksum="5F6DC77C" original="49D76592" size="2316"/>
-	<archive filename="DalamWorldNude\WindowsInfo.ini" checksum="894D3080" original="C82C6F6E" size="2185"/>
 	<archive filename="DalamWorldNude\windrv.int" checksum="CDA2CB33" original="087A3AC7" size="729"/>
 	<archive filename="DalamWorldNude\wrap_oal.dll" checksum="0C68EE79" original="0F491330" size="409620"/>
 	<archive filename="DalamWorldNude\ZoneName-e.dat" checksum="90F40998" original="7F177A01" size="6064"/>
@@ -592,7 +593,6 @@
 	<archive filename="DalamWorld\weapongrp.dat" checksum="E69ADCC1" original="F47DE9C9" size="78128"/>
 	<archive filename="DalamWorld\wform.bm" checksum="2BAF65BB" original="FEB585DE" size="527005"/>
 	<archive filename="DalamWorld\Window.int" checksum="5F6DC77C" original="49D76592" size="2316"/>
-	<archive filename="DalamWorld\WindowsInfo.ini" checksum="C51C420C" original="F3E69AFB" size="2189"/>
 	<archive filename="DalamWorld\windrv.int" checksum="CDA2CB33" original="087A3AC7" size="729"/>
 	<archive filename="DalamWorld\wrap_oal.dll" checksum="0C68EE79" original="0F491330" size="409620"/>
 	<archive filename="DalamWorld\ZoneName-e.dat" checksum="90F40998" original="7F177A01" size="6064"/>
