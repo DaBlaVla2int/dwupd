@@ -5,6 +5,7 @@
 	<options>http://dwupdnossl.fastmsg.ru/config/precfg.xml</options>
 	<news>http://api.dalam.world/launcher/dalamworld/pre.php</news>
 	<patchlist>http://dwupdnossl.fastmsg.ru/files/dwclient/prelaucherpatch.xml</patchlist>
+	<updater>http://dwupdnossl.fastmsg.ru/config/DalamWorld.exe</updater>
 	<full_check>
 		<reload_patchlist/>
 	</full_check>
