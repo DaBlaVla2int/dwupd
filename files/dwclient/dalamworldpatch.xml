@@ -1,5 +1,11 @@
 
 <list>
+	<archive filename="DalamWorld\sysstring-e.dat" checksum="3462CD81" original="CE17C63E" size="15024"/>
+	<archive filename="DalamWorld\systemmsg-e.dat" checksum="F43B41DE" original="6BD7A3B3" size="49840"/>
+	<archive filename="DalamWorldBikini\sysstring-e.dat" checksum="3462CD81" original="CE17C63E" size="15024"/>
+	<archive filename="DalamWorldBikini\systemmsg-e.dat" checksum="F43B41DE" original="6BD7A3B3" size="49840"/>
+	<archive filename="DalamWorldNude\sysstring-e.dat" checksum="3462CD81" original="CE17C63E" size="15024"/>
+	<archive filename="DalamWorldNude\systemmsg-e.dat" checksum="F43B41DE" original="6BD7A3B3" size="49840"/>
 	<archive filename="l2text\credit_ceo.htm" checksum="F54D798D" original="53ADC894" size="5004"/>
 	<archive filename="DalamWorld\armorgrp.dat" checksum="B1CDCD4F" original="12B76742" size="103472"/>
 	<archive filename="DalamWorld\itemname-e.dat" checksum="6FDA4F99" original="44F77CAE" size="237616"/>
@@ -302,8 +308,6 @@
 	<archive filename="DalamWorldBikini\soulshot.int" checksum="5B1F6B23" original="28B3E76B" size="1702"/>
 	<archive filename="DalamWorldBikini\staticobject-e.dat" checksum="FED22FB8" original="3CC08E1F" size="2480"/>
 	<archive filename="DalamWorldBikini\symbolname-e.dat" checksum="B0134FC9" original="7F779B89" size="304"/>
-	<archive filename="DalamWorldBikini\sysstring-e.dat" checksum="264FB273" original="F97D0CC1" size="15024"/>
-	<archive filename="DalamWorldBikini\systemmsg-e.dat" checksum="8F8EBD60" original="05B4A7F6" size="49840"/>
 	<archive filename="DalamWorldBikini\timeenv0.int" checksum="E0F1782C" original="D0EB417F" size="13233"/>
 	<archive filename="DalamWorldBikini\timeenv1.int" checksum="9134E13A" original="2E364813" size="14452"/>
 	<archive filename="DalamWorldBikini\timeenv2.int" checksum="37C1A03E" original="FD10188B" size="13322"/>
@@ -429,8 +433,6 @@
 	<archive filename="DalamWorldNude\soulshot.int" checksum="5B1F6B23" original="28B3E76B" size="1702"/>
 	<archive filename="DalamWorldNude\staticobject-e.dat" checksum="FED22FB8" original="3CC08E1F" size="2480"/>
 	<archive filename="DalamWorldNude\symbolname-e.dat" checksum="B0134FC9" original="7F779B89" size="304"/>
-	<archive filename="DalamWorldNude\sysstring-e.dat" checksum="264FB273" original="F97D0CC1" size="15024"/>
-	<archive filename="DalamWorldNude\systemmsg-e.dat" checksum="8F8EBD60" original="05B4A7F6" size="49840"/>
 	<archive filename="DalamWorldNude\timeenv0.int" checksum="E0F1782C" original="D0EB417F" size="13233"/>
 	<archive filename="DalamWorldNude\timeenv1.int" checksum="9134E13A" original="2E364813" size="14452"/>
 	<archive filename="DalamWorldNude\timeenv2.int" checksum="37C1A03E" original="FD10188B" size="13322"/>
@@ -578,8 +580,6 @@
 	<archive filename="DalamWorld\soulshot.int" checksum="5B1F6B23" original="28B3E76B" size="1702"/>
 	<archive filename="DalamWorld\staticobject-e.dat" checksum="FED22FB8" original="3CC08E1F" size="2480"/>
 	<archive filename="DalamWorld\symbolname-e.dat" checksum="B0134FC9" original="7F779B89" size="304"/>
-	<archive filename="DalamWorld\sysstring-e.dat" checksum="264FB273" original="F97D0CC1" size="15024"/>
-	<archive filename="DalamWorld\systemmsg-e.dat" checksum="8F8EBD60" original="05B4A7F6" size="49840"/>
 	<archive filename="DalamWorld\timeenv0.int" checksum="E0F1782C" original="D0EB417F" size="13233"/>
 	<archive filename="DalamWorld\timeenv1.int" checksum="9134E13A" original="2E364813" size="14452"/>
 	<archive filename="DalamWorld\timeenv2.int" checksum="37C1A03E" original="FD10188B" size="13322"/>
