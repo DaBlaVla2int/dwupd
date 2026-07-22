@@ -1,5 +1,35 @@
 
 <list>
+	<archive filename="maps\17_15.unr" checksum="A14D8C30" original="8B705971" size="9873937"/>
+	<archive filename="maps\17_16.unr" checksum="1CD279DA" original="10C13FAC" size="8325057"/>
+	<archive filename="maps\18_15.unr" checksum="E7D81287" original="28D732BF" size="8910559"/>
+	<archive filename="maps\18_16.unr" checksum="149975C5" original="417978F9" size="5410224"/>
+	<archive filename="staticmeshes\Themepark_01_S.usx" checksum="D8687F73" original="93243352" size="14515982"/>
+	<archive filename="staticmeshes\ThemePark_02_S.usx" checksum="E8DF8EE0" original="1CFDA68C" size="9567088"/>
+	<archive filename="staticmeshes\Themepark_03_S.usx" checksum="89EFD7CC" original="D61141C3" size="10357377"/>
+	<archive filename="staticmeshes\Themepark_04_S.usx" checksum="F6F6606F" original="DB6D94A1" size="6939415"/>
+	<archive filename="staticmeshes\Themepark_deco_s.usx" checksum="D2718AA4" original="6EDCAA9D" size="6792152"/>
+	<archive filename="staticmeshes\themepark_indeco_S.usx" checksum="05A661B4" original="D0976D8E" size="2408253"/>
+	<archive filename="staticmeshes\Themepark_Kerthang_s.usx" checksum="A3A369C7" original="E74503D7" size="8989736"/>
+	<archive filename="staticmeshes\themepark_TfieldOB_S.usx" checksum="53C748CB" original="81DF48D9" size="5566170"/>
+	<archive filename="staticmeshes\Themepark_Valos_S.usx" checksum="62A2154D" original="A11B84BD" size="5478935"/>
+	<archive filename="staticmeshes\ThemePark_Wedding_S.usx" checksum="A5781607" original="63FD0F81" size="15308169"/>
+	<archive filename="textures\t_17_15.utx" checksum="08FD092D" original="AFEF7896" size="3344652"/>
+	<archive filename="textures\t_17_16.utx" checksum="ACB9ABB6" original="F5678191" size="5443136"/>
+	<archive filename="textures\t_18_15.utx" checksum="BD4653A7" original="3B918DB4" size="7215524"/>
+	<archive filename="textures\t_18_16.utx" checksum="71BDE4A9" original="FC0D884B" size="5115085"/>
+	<archive filename="textures\t_themepark.utx" checksum="2499FAB3" original="1D9384BA" size="747037"/>
+	<archive filename="textures\themepark_01_t.utx" checksum="D2B63C31" original="CAA434F4" size="10792249"/>
+	<archive filename="textures\themepark_02_t.utx" checksum="3A98A630" original="2FAF4008" size="8445071"/>
+	<archive filename="textures\themepark_03_t.utx" checksum="1D4F1B29" original="DB86A78C" size="5821358"/>
+	<archive filename="textures\themepark_04_t.utx" checksum="5D02E105" original="AE6747E4" size="6002108"/>
+	<archive filename="textures\themepark_deco_t.utx" checksum="DE879737" original="21C6FF10" size="3333629"/>
+	<archive filename="textures\themepark_indeco_T.utx" checksum="D3E22FD7" original="5E191A95" size="6026335"/>
+	<archive filename="textures\themepark_kerthang_t.utx" checksum="9E21548D" original="EA43F8BC" size="6114807"/>
+	<archive filename="textures\themepark_TfieldOB_T.utx" checksum="3545ED87" original="6A6D8A1B" size="12312164"/>
+	<archive filename="textures\themepark_valos_t.utx" checksum="23CA9030" original="71CF4052" size="5241765"/>
+	<archive filename="textures\ThemePark_Wedding_T.utx" checksum="293BF609" original="1139AC14" size="8403907"/>
+	
 	<archive filename="DalamWorld\sysstring-e.dat" checksum="3462CD81" original="CE17C63E" size="15024"/>
 	<archive filename="DalamWorld\systemmsg-e.dat" checksum="F43B41DE" original="6BD7A3B3" size="49840"/>
 	<archive filename="DalamWorldBikini\sysstring-e.dat" checksum="3462CD81" original="CE17C63E" size="15024"/>
