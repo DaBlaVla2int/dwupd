@@ -782,7 +782,6 @@
 	<archive filename="maps\18_12.unr" checksum="4066B3E0" original="4B2F1577" size="2965398"/>
 	<archive filename="maps\18_13.unr" checksum="F3C22003" original="FF7B92C3" size="2966304"/>
 	<archive filename="maps\18_14.unr" checksum="D84E9236" original="E7A8C260" size="5519809"/>
-	<archive filename="maps\18_15.unr" checksum="A81FABAA" original="D5D97CF1" size="1795707"/>
 	<archive filename="maps\18_17.unr" checksum="E841DA09" original="05C5A0C9" size="2965808"/>
 	<archive filename="maps\18_18.unr" checksum="9531D090" original="F20786C3" size="2965216"/>
 	<archive filename="maps\18_19.unr" checksum="5FD698A8" original="7F8DE0DE" size="8375259"/>
@@ -1673,7 +1672,7 @@
 	<archive filename="textures\t_18_12.utx" checksum="D767B528" original="B979F03F" size="131515"/>
 	<archive filename="textures\t_18_13.utx" checksum="BFC4794A" original="F1077A8A" size="131516"/>
 	<archive filename="textures\t_18_14.utx" checksum="3C694B79" original="55F0C69D" size="3413378"/>
-	<archive filename="textures\t_18_15.utx" checksum="D42830F2" original="C65F2F18" size="131515"/>
+	
 	<archive filename="textures\t_18_17.utx" checksum="16DD52BF" original="22288CDD" size="831971"/>
 	<archive filename="textures\t_18_18.utx" checksum="F1D63AB1" original="043DA97F" size="131544"/>
 	<archive filename="textures\t_18_19.utx" checksum="9F432A92" original="BB2C1F81" size="3372994"/>
