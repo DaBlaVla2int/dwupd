@@ -1,5 +1,6 @@
 
 <list>
+	<archive filename="staticmeshes\M1.usx" checksum="6E001399" original="5D617F33" size="314624155"/>
 	<archive filename="maps\17_15.unr" checksum="A14D8C30" original="8B705971" size="9873937"/>
 	<archive filename="maps\17_16.unr" checksum="1CD279DA" original="10C13FAC" size="8325057"/>
 	<archive filename="maps\18_15.unr" checksum="E7D81287" original="28D732BF" size="8910559"/>
@@ -1285,7 +1286,7 @@
 	<archive filename="staticmeshes\l2fortress_02_s.usx" checksum="C63BA246" original="32BE51A6" size="14432862"/>
 	<archive filename="staticmeshes\l2fortress_snow_s.usx" checksum="9453CA5A" original="AEEA2743" size="7777691"/>
 	<archive filename="staticmeshes\LineageEffectsStaticmeshes.usx" checksum="FE953A6D" original="5131F40C" size="5818303"/>
-	<archive filename="staticmeshes\M1.usx" checksum="78263A5F" original="5BC18824" size="379639463"/>
+	
 	<archive filename="staticmeshes\manor_system_object_s.usx" checksum="56E69132" original="2A8103BC" size="6403842"/>
 	<archive filename="staticmeshes\o_def_terrain.usx" checksum="FD5799B1" original="6D9F229E" size="234205"/>
 	<archive filename="staticmeshes\old_war_s.usx" checksum="AACA3259" original="990E5227" size="2207255"/>
