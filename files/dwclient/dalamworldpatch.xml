@@ -1,5 +1,6 @@
 
 <list>
+	<archive filename="music\ls01_f.ogg" checksum="A786F80C" original="1F7FDAC4" size="2432780"/>
 	<archive filename="staticmeshes\M1.usx" checksum="6E001399" original="5D617F33" size="314624155"/>
 	<archive filename="maps\17_15.unr" checksum="A14D8C30" original="8B705971" size="9873937"/>
 	<archive filename="maps\17_16.unr" checksum="1CD279DA" original="10C13FAC" size="8325057"/>
@@ -1005,7 +1006,6 @@
 	<archive filename="music\f17_f.ogg" checksum="44D358A4" original="F002FADE" size="543139"/>
 	<archive filename="music\f17_s01.ogg" checksum="4BB4C2A3" original="338E2E99" size="535803"/>
 	<archive filename="music\intro.ogg" checksum="393D6C52" original="CC89E575" size="2371227"/>
-	<archive filename="music\ls01_f.ogg" checksum="FA051334" original="B13F1565" size="3477533"/>
 	<archive filename="music\ns01_f.ogg" checksum="94D3D01E" original="30EC38D4" size="1483778"/>
 	<archive filename="music\ns02_f.ogg" checksum="C60BE68F" original="A84DD9F4" size="1478758"/>
 	<archive filename="music\ns03_f.ogg" checksum="A365D8FE" original="B6076A5D" size="1606304"/>
